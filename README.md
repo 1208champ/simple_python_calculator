@@ -1,1 +1,1 @@
-### Simple Python calculator made in Pycharm! 
+### Simple Python calculator made in PyCharm! 
